@@ -1,0 +1,6 @@
+pages\EditCustomerPage.class
+pages\DeleteCustomerPage.class
+pages\LandingPage.class
+pages\NewCustomerPage.class
+pages\HomePage.class
+pages\NewAccountPage.class

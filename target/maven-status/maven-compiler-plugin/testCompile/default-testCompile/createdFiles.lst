@@ -1,0 +1,9 @@
+testcases\ExcelConfig.class
+testcases\ExtentReporterNG.class
+testcases\listener.class
+testcases\VerifyAddAccount.class
+testcases\VerifyLogin.class
+testcases\VerifyDeleteCustomer.class
+testcases\VerifyEditCustomer.class
+testcases\VerifyAddNewCustomer.class
+testcases\base.class
